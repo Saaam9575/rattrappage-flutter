@@ -1,16 +1,6 @@
 # todo_list
+voici mon projet de rattrappage flutter. Suite à des problèmes de temps et d'apprentissage de flutter en parallèle de mes horaires de bureaux voici le résultat.
+certaine fonctionnalité ne sont pas forcéments encore bien intégré mais vous pourrez constatés en détail l'intention.
 
-A new Flutter project.
+Bonne Correction
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
